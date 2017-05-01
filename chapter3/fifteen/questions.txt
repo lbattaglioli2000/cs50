@@ -1,0 +1,4 @@
+0. 3X3, 5X5, 6X6, 7X7, 8X8, 9X9
+1. An 2D array
+2. greet()
+3. init(), draw(), move(), won()
